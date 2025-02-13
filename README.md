@@ -1,6 +1,4 @@
 # onrorhan
-Here's a catchy GitHub Pages bio introduction for a fresh game data analyst:
-
 🎮 Game Data Analyst | Turning Pixels into Insights | Leveling Up Player Experiences 🕹️
 
 Hi there! I'm Onur, a passionate game data analyst fresh out of the spawn point and ready to crunch numbers, slay ambiguity, and unlock the secrets hidden in player behavior. Armed with SQL queries, Python scripts, and a love for gaming, I bridge the gap between raw metrics and unforgettable gameplay.
